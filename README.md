@@ -1,2 +1,2 @@
 # APG-TP
-This repository just resoure and file or learning about Advance Programing TP 
+This Project really focus on the TP with bunch of file resource , assignment and others 
